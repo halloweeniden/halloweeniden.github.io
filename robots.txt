@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://halloweeniden.github.io/sitemap.xml
